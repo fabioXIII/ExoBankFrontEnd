@@ -1,0 +1,10 @@
+export const LOGIN = "/"
+export const ADMIN_HOME = "/AdminHome";
+export const CUSTOMER_HOME= "/CustomerHome";
+export const APRI_CONTO ="/ApriConto";
+export const DETTAGLI_UTENTE= "/Dettagliutente";
+export const LISTA_TRANSAZIONI = "/ListaTransazioni";
+export const OPERAZIONI_CLIENTE ="/OperazioniCliente";
+export const REGISTRAZIONE_FORM ="/RegistrazioneForm";
+export const TRANSAZIONI_CLIENTE= "/TransazioniCliente";
+export const LANDING_ADMIN = "/LandingAdmin";
